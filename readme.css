@@ -1,3 +1,9 @@
-.body{
+.m1{
+    width: 100px;
+    height: 100px;
     background-color: black;
+}
+.html{
+    width:  1000px;
+    height: 1000px;
 }
